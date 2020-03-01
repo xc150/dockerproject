@@ -14,3 +14,6 @@ Docker image for this project can be found on docker hub [here](https://hub.dock
 
 ## Video demo
 [Here](https://youtu.be/FzZ90HxVWFY) is a video demo for the project.
+
+## Interesting findings
+The pylint tool does not like sklearn load data module and will return an error, which is the reason my code does not pass the lint. An issue discussing this can be found [here](https://github.com/scikit-learn/scikit-learn/issues/10466).
