@@ -13,4 +13,4 @@ Docker image for this project can be found on docker hub [here](https://hub.dock
 - In the bash, run command `python app.py` to do the training.
 
 ## Video demo
-[Here]() is a video demo for the project.
+[Here](https://www.youtube.com/watch?v=FzZ90HxVWFY) is a video demo for the project.
