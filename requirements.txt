@@ -1,2 +1,2 @@
 scikit-learn
-pylin
+pylint
