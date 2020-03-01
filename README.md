@@ -8,6 +8,6 @@ Docker image for this project can be found on docker hub https://hub.docker.com/
 
 ## Running app with Cloud9
 - Open a cloud 9 environment.
-- Run command     docker pull xc150/dockerproj to pull the docker image from docker hub.
-- Run command     docker run -it xc150/dockerproj bash_ to create a bash enviroment with the docker image.
-- In the bash, run     command _python app.py to do the training.
+- Run command `docker pull xc150/dockerproj` to pull the docker image from docker hub.
+- Run command `docker run -it xc150/dockerproj` bash_ to create a bash enviroment with the docker image.
+- In the bash, run `command _python app.py` to do the training.
