@@ -12,3 +12,4 @@ Docker image for this project can be found on docker hub https://hub.docker.com/
 - Run command _docker run -it xc150/dockerproj bash_ to create a bash enviroment with the docker image.
 - In the bash, run command _python app.py_ to do the training.
 
+<font color="red">This is some text!</font>
