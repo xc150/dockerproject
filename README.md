@@ -4,7 +4,7 @@
 This is the repo for 2nd individual project of ECE590  Data Analysis At Scale in the Cloud.
 
 ## Docker image
-Docker image for this project can be found on docker hub https://hub.docker.com/r/xc150/dockerproj.
+Docker image for this project can be found on docker hub [here](https://hub.docker.com/r/xc150/dockerproj).
 
 ## Running app with Cloud9
 - Open a cloud 9 environment.
